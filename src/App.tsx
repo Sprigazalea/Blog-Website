@@ -8,10 +8,13 @@ function App() {
       </header>
       <p className='text-blue-600'>test</p>
       <div className='w-90% h-auto border border-solid border-white-600' id='previews'>
-        <div>
-          <img src='00048.png'></img>
-          <h2>Title</h2>
-          <p>Text</p>
+        <div className='flex'>
+          <img className='max-h-40' src='00048.png'></img>
+          <div>
+            <h2>Title</h2>
+            <p>Text</p>
+            <a>Tag</a>
+          </div>
         </div>
       </div>
     </div>
