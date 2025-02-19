@@ -6,7 +6,7 @@ function App() {
       <header className='flex items-center w-24 h-24 border border-solid border-white-600 w-auto'>
         <h1 className='font-semibold w-2xl m-0 italic'>~ Sprig's Blog ~</h1>
       </header>
-      <hr></hr>
+      <hr className='p-4'></hr>
       <div className='w-90% h-auto border border-solid border-white-600' id='previews'>
         <div className='p-4'>
           <div className='flex p-4 border border-solid border-white-600 hover:bg-gray-950' id='preview-1'>
