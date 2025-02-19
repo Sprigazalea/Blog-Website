@@ -10,25 +10,25 @@ function App() {
       <div className='w-90% h-auto border border-solid border-white-600' id='previews'>
         <div className='p-4'>
           <div className='flex p-4 border border-solid border-white-600' id='preview-1'>
-            <img className='max-h-40' src='00048.png'></img>
-            <div>
-              <h2 className='text-3xl'>TitleTitleTitleTitleTitle</h2>
+            <img className='max-h-40 pr-4' src='00048.png'></img>
+            <div className='text-left'>
+              <h2 className='text-3xl font-semibold'>TitleTitleTitleTitleTitle</h2>
               <p>Text</p>
               <a>Tag</a>
             </div>
           </div>
           <div className='flex p-4 border border-solid border-white-600' id='preview-2'>
-            <img className='max-h-40' src='00048.png'></img>
-            <div>
-              <h2 className='text-3xl'>TitleTitleTitleTitleTitle</h2>
+            <img className='max-h-40 pr-4' src='00048.png'></img>
+            <div className='text-left'>
+              <h2 className='text-3xl font-semibold'>TitleTitleTitleTitleTitle</h2>
               <p>Text</p>
               <a>Tag</a>
             </div>
           </div>
           <div className='flex p-4 border border-solid border-white-600' id='preview-3'>
-            <img className='max-h-40' src='00048.png'></img>
-            <div>
-              <h2 className='text-3xl'>TitleTitleTitleTitleTitle</h2>
+            <img className='max-h-40 pr-4' src='00048.png'></img>
+            <div className='text-left'>
+              <h2 className='text-3xl font-semibold'>TitleTitleTitleTitleTitle</h2>
               <p>Text</p>
               <a>Tag</a>
             </div>
