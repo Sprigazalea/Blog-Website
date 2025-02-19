@@ -8,7 +8,7 @@ function App() {
       </header>
       <p className='text-blue-600'>test</p>
       <div className='w-90% h-auto border border-solid border-white-600' id='previews'>
-        <div className='flex' id='preview-1'>
+        <div className='flex p-4' id='preview-1'>
           <img className='max-h-40' src='00048.png'></img>
           <div>
             <h2>Title</h2>
@@ -16,7 +16,7 @@ function App() {
             <a>Tag</a>
           </div>
         </div>
-        <div className='flex' id=';preview-2'>
+        <div className='flex p-4' id='preview-2'>
           <img className='max-h-40' src='00048.png'></img>
           <div>
             <h2>Title</h2>
@@ -24,7 +24,7 @@ function App() {
             <a>Tag</a>
           </div>
         </div>
-        <div className='flex' id=';preview-3'>
+        <div className='flex p-4' id='preview-3'>
           <img className='max-h-40' src='00048.png'></img>
           <div>
             <h2>Title</h2>
