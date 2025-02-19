@@ -8,7 +8,11 @@ function App() {
       </header>
       <p className='text-blue-600'>test</p>
       <div className='w-90% h-auto border border-solid border-white-600' id='previews'>
-        test
+        <div>
+          <img src='00048.png'></img>
+          <h2>Title</h2>
+          <p>Text</p>
+        </div>
       </div>
     </div>
   );
