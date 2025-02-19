@@ -12,7 +12,7 @@ function App() {
           <div className='flex p-4 border border-solid border-white-600' id='preview-1'>
             <img className='max-h-40' src='00048.png'></img>
             <div>
-              <h2>Title</h2>
+              <h2 className='text-3xl'>TitleTitleTitleTitleTitle</h2>
               <p>Text</p>
               <a>Tag</a>
             </div>
@@ -20,7 +20,7 @@ function App() {
           <div className='flex p-4 border border-solid border-white-600' id='preview-2'>
             <img className='max-h-40' src='00048.png'></img>
             <div>
-              <h2>Title</h2>
+              <h2 className='text-3xl'>TitleTitleTitleTitleTitle</h2>
               <p>Text</p>
               <a>Tag</a>
             </div>
@@ -28,7 +28,7 @@ function App() {
           <div className='flex p-4 border border-solid border-white-600' id='preview-3'>
             <img className='max-h-40' src='00048.png'></img>
             <div>
-              <h2>Title</h2>
+              <h2 className='text-3xl'>TitleTitleTitleTitleTitle</h2>
               <p>Text</p>
               <a>Tag</a>
             </div>
